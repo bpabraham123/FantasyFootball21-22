@@ -1,6 +1,5 @@
 == Fantasy Football Points Predictor ==
   Contributor: bpabraham123 (Benjamin Abraham)
-  Email: bpabraham123@gmail.com
   Requires at least: Python 3, bs4, pandas, urllib, and sklearn
 
 
