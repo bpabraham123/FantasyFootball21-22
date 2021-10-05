@@ -30,7 +30,5 @@
   may garner. Any other feedback would be greatly appreciated.
 
 == More Info ==
-	
-	For a complete summary on this project and its results, please visit 
-	
-	https://mfootballanalytics.com/2021/10/05/fantasy-football-points-prediction-ml-model-for-2021-nfl-season/
+For a complete summary on this project and its results, please visit 
+https://mfootballanalytics.com/2021/10/05/fantasy-football-points-prediction-ml-model-for-2021-nfl-season/
